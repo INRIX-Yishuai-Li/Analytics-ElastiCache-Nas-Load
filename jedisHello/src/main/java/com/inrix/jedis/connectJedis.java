@@ -16,7 +16,7 @@ import java.util.List;
 public class connectJedis {
 
     public static void main(String[] args) {
-        Jedis jedis = new Jedis("localhost");
+        Jedis jedis = new Jedis("nastestredis.napkrz.0001.usw2.cache.amazonaws.com", 6379);
 
         jedis.del("keykey2");
         jedis.rpush("keykey2", "value!");

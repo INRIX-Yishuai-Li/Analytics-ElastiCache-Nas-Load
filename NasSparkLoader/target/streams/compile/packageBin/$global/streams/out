@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\nassparkloader_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com\inrix[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas\NasDriver$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas\NasDriver$.class[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas\NasDumpGenerator$$anonfun$fillIn$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas\NasDumpGenerator$$anonfun$fillIn$1.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas\NasDumpGenerator$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas\NasDumpGenerator$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas\NasDumpGenerator.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas\NasDumpGenerator.class[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas\NasDumpGenerator$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas\NasDumpGenerator$.class[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas\NasDriver.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas\NasDriver.class[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas\NasDumpGenerator$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas\NasDumpGenerator$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas\NasDriver$$anonfun$loadAllMap$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas\NasDriver$$anonfun$loadAllMap$1.class[0m
+[0m[[0mdebug[0m] [0m	com\inrix\analytics\nas\NasDumpGenerator$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\target\scala-2.10\classes\com\inrix\analytics\nas\NasDumpGenerator$$anonfun$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
