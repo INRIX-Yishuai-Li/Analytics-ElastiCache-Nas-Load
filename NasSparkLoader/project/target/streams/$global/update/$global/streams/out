@@ -115,7 +115,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3.pom
-[debug] 	[SUCCESSFUL ] org.apache.maven#maven-plugin-api;3.3.3!maven-plugin-api.pom(pom.original) (339ms)
+[debug] 	[SUCCESSFUL ] org.apache.maven#maven-plugin-api;3.3.3!maven-plugin-api.pom(pom.original) (221ms)
 [info] Resolving org.apache.maven#maven;3.3.3 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.maven#maven;3.3.3 {}
 [info] Resolving org.apache.maven#maven;3.3.3 ...
@@ -135,7 +135,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven/3.3.3/maven-3.3.3.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven/3.3.3/maven-3.3.3.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/org/apache/maven/maven/3.3.3/maven-3.3.3.pom
-[debug] 	[SUCCESSFUL ] org.apache.maven#maven;3.3.3!maven.pom(pom.original) (413ms)
+[debug] 	[SUCCESSFUL ] org.apache.maven#maven;3.3.3!maven.pom(pom.original) (239ms)
 [info] Resolving org.apache.maven#maven-parent;26 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.maven#maven-parent;26 {}
 [info] Resolving org.apache.maven#maven-parent;26 ...
@@ -155,7 +155,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven-parent/26/maven-parent-26.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven-parent/26/maven-parent-26.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/org/apache/maven/maven-parent/26/maven-parent-26.pom
-[debug] 	[SUCCESSFUL ] org.apache.maven#maven-parent;26!maven-parent.pom(pom.original) (542ms)
+[debug] 	[SUCCESSFUL ] org.apache.maven#maven-parent;26!maven-parent.pom(pom.original) (276ms)
 [info] Resolving org.apache#apache;16 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache#apache;16 {}
 [debug] sbt-chain: module revision found in cache: org.apache#apache;16
@@ -199,7 +199,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3.pom
-[debug] 	[SUCCESSFUL ] org.apache.maven#maven-model;3.3.3!maven-model.pom(pom.original) (320ms)
+[debug] 	[SUCCESSFUL ] org.apache.maven#maven-model;3.3.3!maven-model.pom(pom.original) (224ms)
 [info] Resolving org.apache.maven#maven;3.3.3 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.maven#maven;3.3.3 {}
 [debug] sbt-chain: module revision found in cache: org.apache.maven#maven;3.3.3
@@ -231,7 +231,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3.pom
-[debug] 	[SUCCESSFUL ] org.apache.maven#maven-artifact;3.3.3!maven-artifact.pom(pom.original) (332ms)
+[debug] 	[SUCCESSFUL ] org.apache.maven#maven-artifact;3.3.3!maven-artifact.pom(pom.original) (207ms)
 [info] Resolving org.apache.maven#maven;3.3.3 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.maven#maven;3.3.3 {}
 [debug] sbt-chain: module revision found in cache: org.apache.maven#maven;3.3.3
@@ -2771,7 +2771,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 18819ms :: artifacts dl 626ms
+[debug] :: resolution report :: resolve 11378ms :: artifacts dl 156ms
 [debug] 	report for default#nassparkloader-build;0.1-SNAPSHOT compile produced in C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\project\target\resolution-cache\reports\default-nassparkloader-build-compile.xml
 [debug] 	report for default#nassparkloader-build;0.1-SNAPSHOT runtime produced in C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\project\target\resolution-cache\reports\default-nassparkloader-build-runtime.xml
 [debug] 	report for default#nassparkloader-build;0.1-SNAPSHOT test produced in C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\project\target\resolution-cache\reports\default-nassparkloader-build-test.xml
@@ -2785,5 +2785,5 @@
 [debug] 	report for default#nassparkloader-build;0.1-SNAPSHOT docs produced in C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\project\target\resolution-cache\reports\default-nassparkloader-build-docs.xml
 [debug] 	report for default#nassparkloader-build;0.1-SNAPSHOT pom produced in C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\project\target\resolution-cache\reports\default-nassparkloader-build-pom.xml
 [debug] 	report for default#nassparkloader-build;0.1-SNAPSHOT scala-tool produced in C:\Users\yishuai.li\Documents\work\Performance Measure\GitCheckout\Analytics-ElastiCache-Nas-Load\NasSparkLoader\project\target\resolution-cache\reports\default-nassparkloader-build-scala-tool.xml
-[debug] 	resolve done (18819ms resolve - 626ms download)
+[debug] 	resolve done (11378ms resolve - 156ms download)
 [info] Done updating.

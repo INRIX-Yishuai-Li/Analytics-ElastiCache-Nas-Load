@@ -4,7 +4,7 @@
 		module="nassparkloader-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161122215044"
+		publication="20170509170219"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

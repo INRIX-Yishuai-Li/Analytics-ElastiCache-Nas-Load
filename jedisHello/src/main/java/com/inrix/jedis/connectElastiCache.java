@@ -16,10 +16,12 @@ import java.util.List;
 public class connectElastiCache {
 
     public static void main(String[] args) {
-        Jedis jedis = new Jedis("nasredistest-001.napkrz.0001.usw2.cache.amazonaws.com", 6379);
+        Jedis jedis = new Jedis("nastestredis.napkrz.0001.usw2.cache.amazonaws.com", 6379);
 
-        jedis.del("keykey2");
-        jedis.rpush("keykey2", "value!");
+        System.out.println(jedis.lrange("1602-1002905519", 0, -1).size());
+
+        //jedis.del("keykey2");
+        //jedis.rpush("keykey2", "value!");
 
 
 

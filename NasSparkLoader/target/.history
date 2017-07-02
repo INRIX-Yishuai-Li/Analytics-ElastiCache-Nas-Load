@@ -8,3 +8,4 @@ clean
 package
 clean
 package
+clean compile

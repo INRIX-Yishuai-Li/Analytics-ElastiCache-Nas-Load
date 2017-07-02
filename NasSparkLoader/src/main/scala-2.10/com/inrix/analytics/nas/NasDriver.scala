@@ -20,13 +20,13 @@ object NasDriver {
     sc.hadoopConfiguration.set("fs.s3n.awsAccessKeyId", "AKIAIFEYF3PYZ67CS5IA")
     sc.hadoopConfiguration.set("fs.s3n.awsSecretAccessKey", "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")
 
-    val mapList = List("1401")
+    val mapList = List("1701")
 
     mapList.foreach(
       mapVersion =>
         NasDumpGenerator.computeAndLoad(
           sc,
-          s"s3n://inrixprod-referencedata/data/dbname=nas/mapversion=${mapVersion}/tablename=csegnas/data/*.gz",
+          s"s3n://inrixprod-referencedata/data/dbname=nas/mapversion=${mapVersion}/tablename=csegnas/data/*.bz2",
           mapVersion,
           s"s3n://inrix-analytics-scratch/loadNas/forRedis/mapversion=${mapVersion}/data")
     )

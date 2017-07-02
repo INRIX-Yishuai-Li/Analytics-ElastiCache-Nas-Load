@@ -11,10 +11,10 @@ object NasDumpGenerator {
   def computeAndLoad(sc: SparkContext, s3Location: String, mapVersion: String, storeLocation: String): Unit = {
     println("s3Location: " + s3Location)
 
-    val oneRd = sc.textFile(s3Location)
-    val counter = oneRd.count()
+    val oneRd2 = sc.textFile(s3Location, 1000)
+    //val counter = oneRd.count()
 
-    val oneRd2 = oneRd.repartition(900).persist(StorageLevel.DISK_ONLY)
+    //val oneRd2 = oneRd.repartition(900).persist(StorageLevel.MEMORY_AND_DISK)
 
     val processed = oneRd2.map(line => {
       val llist = line.split("\t")
